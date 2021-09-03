@@ -1,2 +1,2 @@
-# aws-infra-tf
-This repo will holds the tf scripts to deploy infrastructure on aws
+# tf-web-app-ion
+Repo holds terraform code used for running Terraform job for Alpha DevOps project
